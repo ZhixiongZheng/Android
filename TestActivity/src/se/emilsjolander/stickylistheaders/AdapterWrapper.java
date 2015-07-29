@@ -23,6 +23,7 @@ import android.widget.ListAdapter;
  *
  * @author Jake Wharton (jakewharton@gmail.com)
  */
+ ////////////////////////////////////////////////////////
 class AdapterWrapper extends BaseAdapter implements StickyListHeadersAdapter {
 
 	interface OnHeaderClickListener {
