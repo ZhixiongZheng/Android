@@ -13,6 +13,14 @@ import android.widget.BaseAdapter;
 import android.widget.Checkable;
 import android.widget.ListAdapter;
 
+/********************
+*
+*aaaaaaaaaaaaa
+*bbbbbbbbbbb
+*cccccccccccccc
+*dddddddddddddd
+*
+**/
 /**
  * A {@link ListAdapter} which wraps a {@link StickyListHeadersAdapter} and
  * automatically handles wrapping the result of
